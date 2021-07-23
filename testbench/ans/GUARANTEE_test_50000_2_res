@@ -1,6 +1,6 @@
 
 =============== Environment Setting ================
-trace file path: traces/test_50000
+trace file path: ../traces/test_50000
 scheduling policy: GUARANTEE
 quantum: 8
 =================================================
